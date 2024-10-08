@@ -1,0 +1,17 @@
+#Line 1 is in work...
+
+SIGN:
+
+ Line2: '&5&lCLICK ME'
+ 
+######################
+ 
+Messages:
+
+ Join: '&aYou are now in world &6%worldname%'
+ 
+#######################
+
+Maintenace:
+
+ Line2: '&c&lMaintenance'

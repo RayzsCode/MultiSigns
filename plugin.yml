@@ -1,0 +1,8 @@
+name: MultiSigns
+version: 0.2
+main: de.MultiSigns.Main
+author: Rayzs_YT
+
+commands:
+ 
+ multisigns: 
